@@ -22,6 +22,7 @@
   ![Django](https://skillicons.dev/icons?i=django)
   ![Flask](https://skillicons.dev/icons?i=flask)
   ![PHP](https://skillicons.dev/icons?i=php)
+  ![Python](https://skillicons.dev/icons?i=python)
 
 #### Tools:
 

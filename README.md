@@ -18,11 +18,12 @@
   ![HTML](https://skillicons.dev/icons?i=html)
   ![CSS](https://skillicons.dev/icons?i=css)
   ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![Python](https://skillicons.dev/icons?i=python)
   ![Laravel](https://skillicons.dev/icons?i=laravel)
   ![Django](https://skillicons.dev/icons?i=django)
   ![Flask](https://skillicons.dev/icons?i=flask)
   ![PHP](https://skillicons.dev/icons?i=php)
-  ![Python](https://skillicons.dev/icons?i=python)
+  
 
 #### Tools:
 
